@@ -1,0 +1,9 @@
+{
+    "domain": "birthdays-reza",
+    "name": "Birthdays-Reza",
+    "documentation": "https://github.com/rezaalhadar/ha-birthday-id",
+    "dependencies": [],
+    "codeowners": ["@RezaAlhadar"],
+    "requirements": [],
+    "version": "1.0.0"
+}
